@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2f4bd0,100:8fa6ff&text=%ED%98%84%EC%83%81%EB%AF%BC&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Frontend%20Developer&descSize=17&descAlignY=57" />
 
-관리자 웹과 하이브리드 앱을 화면부터 API까지 다룹니다.
-웹과 네이티브가 얽혀 어느 한쪽만으로는 풀리지 않는 문제를 주로 맡습니다.
+React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론트엔드 개발자입니다.
 
 - 🔨 지금: NFT 멤버십 서비스 **비멤버** — WebView 웹 · 관리자 웹(비즈센터)
 - 📝 프로젝트·트러블슈팅 기록: **[aqumon.dev](https://aqumon.dev)**
