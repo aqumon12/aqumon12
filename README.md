@@ -6,6 +6,8 @@ React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론
 - 📝 프로젝트·트러블슈팅 기록: **[aqumon.dev](https://aqumon.dev)**
 - 📮 gustkdals123@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=aqumon12&style=flat-square&color=2f4bd0&label=Views" alt="profile views" />
+
 <br/>
 
 ### 🛠 기술 스택
