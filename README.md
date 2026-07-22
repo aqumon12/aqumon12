@@ -36,6 +36,7 @@ React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론
 | 저장소 | 내용 |
 |---|---|
 | [aqumon-portfolio](https://github.com/aqumon12/aqumon-portfolio) | 포트폴리오 사이트 소스 (Next.js 16, [aqumon.dev](https://aqumon.dev)) |
+| [token-refresh-playground](https://github.com/aqumon12/token-refresh-playground) | 실무에서 겪은 토큰 무한 재요청 문제의 single-flight 해법 재구현 — NestJS 통합 테스트로 증명 |
 | [nft](https://github.com/aqumon12/nft) | ERC-721 발급·스왑 컨트랙트 연습 (Hardhat · OpenZeppelin) |
 | [dapp](https://github.com/aqumon12/dapp) | 지갑 연결 · NFT 조회/전송 dApp (Next.js · ethers) |
 
