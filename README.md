@@ -8,7 +8,7 @@ React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론
 
 <br/>
 
-### 🛠 주로 쓰는 것들
+### 🛠 기술 스택
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vitest,solidity,mysql,php&perline=8" alt="tech stack" />
@@ -18,9 +18,9 @@ TanStack Query · Zustand · React Native (Expo) · MSW · Sentry · ethers
 
 <br/>
 
-### 📊 GitHub
+### 🌱 Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=aqumon12&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f4bd0&icon_color=2f4bd0&text_color=8b90a0&count_private=true&custom_title=Stats" height="160" alt="stats" />
+<img width="100%" src="https://ghchart.rshah.org/2f4bd0/aqumon12" alt="contribution graph" />
 
 <br/>
 
