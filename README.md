@@ -38,6 +38,5 @@ React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론
 | [aqumon-portfolio](https://github.com/aqumon12/aqumon-portfolio) | 포트폴리오 사이트 소스 (Next.js 16, [aqumon.dev](https://aqumon.dev)) |
 | [nft](https://github.com/aqumon12/nft) | ERC-721 발급·스왑 컨트랙트 연습 (Hardhat · OpenZeppelin) |
 | [dapp](https://github.com/aqumon12/dapp) | 지갑 연결 · NFT 조회/전송 dApp (Next.js · ethers) |
-| 참을만 해? | 직장 내 괴롭힘 AI 분석 앱 — 2인 스터디, 개발 중 |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8fa6ff,100:2f4bd0&section=footer" />
