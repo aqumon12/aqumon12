@@ -27,6 +27,13 @@ React/Next.js로 웹과 하이브리드 앱(WebView)을 만드는 3년차 프론
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
+### 📊 GitHub 통계
+
+<p>
+  <img height="165" src="https://github-readme-stats-aqumons-projects.vercel.app/api?username=aqumon12&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true&bg_color=1a1d24&title_color=8fa6ff&icon_color=8fa6ff&text_color=c9cdd6&border_radius=10" alt="github stats" />
+  <img height="165" src="https://github-readme-stats-aqumons-projects.vercel.app/api/top-langs/?username=aqumon12&layout=compact&langs_count=6&hide_border=true&bg_color=1a1d24&title_color=8fa6ff&icon_color=8fa6ff&text_color=c9cdd6&border_radius=10" alt="top languages" />
+</p>
+
 ### 📂 둘러보기
 
 | 저장소 | 내용 |
